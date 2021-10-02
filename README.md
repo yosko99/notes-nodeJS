@@ -1,6 +1,6 @@
-### Note app created with node and yargs npm package
+### Note app
 
-Practising with nodeJS and npm package yargs.
+Created with nodeJS and npm package yargs.
 
 
 <pre>
